@@ -1,0 +1,40 @@
+
+[
+
+  {
+    "Id": 1,
+    "Name": "Hong Kong",
+    "Longitude":114.10,
+    "Latitude": 22.18
+  },
+  {
+    "Id": 2,
+    "Name": "Amoy",
+    "Longitude": 118.05,
+    "Latitude": 24.26
+  },
+  {
+    "Id": 3,
+    "Name": "Chefoo",
+    "Longitude": 121.23,
+    "Latitude": 37.33
+  },
+  {
+    "Id": 4,
+    "Name": "Canton",
+    "Longitude": 113.12,
+    "Latitude": 23.08
+  },
+  {
+    "Id": 5,
+    "Name": "Chinwangtao",
+    "Longitude": 119.29,
+    "Latitude": 40.00
+  },
+  {
+    "Id": 5,
+    "Name": "Dairen",
+    "Longitude": 121.39,
+    "Latitude": 38.55
+  }
+]
